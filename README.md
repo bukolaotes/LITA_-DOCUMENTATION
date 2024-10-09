@@ -36,6 +36,24 @@ THIS PROJECT ANALYZES HISTORICAL SALES DATA TO UNCOVER TRENDS,PATTERNS,AND INSIG
 
   ![image](https://github.com/user-attachments/assets/1ddf5dbc-2a6d-4c49-aed5-f272a5c17a79)
 
+  AVERAGE  REVENUE BY REGION	
+	
+  ![image](https://github.com/user-attachments/assets/2ada411f-7e34-4736-b5a8-8d9bcc4d22ab)
+
+  TOP 5 MARKETS BY REVENUE	
+
+  ![image](https://github.com/user-attachments/assets/ae778fc3-2877-4999-9a8c-dba790e7e05d)
+
+  TOP 10 STORES BY REVENUE	
+
+  ![image](https://github.com/user-attachments/assets/92ce8a34-9e75-48b2-87df-12700327b0df)
+
+  BOTTOM 5 STORES BY UNITS SOLD		
+	
+  ![image](https://github.com/user-attachments/assets/5c02a042-23ad-4519-b7e8-c061c8b551e1)
+
+  
+
 
 ## DATA SOURCES
 THE DATASET USED FOR THIS PROJECT CONSISTS OF HISTORICAL SALES RECORDS COLLECTED FOR TWO YEARS FROM A FICTIONAL  COMPANY.
@@ -63,4 +81,14 @@ REVENUE BY REGION
 
 ![image](https://github.com/user-attachments/assets/505e92ba-2d4a-48f3-a997-5dfcb114ffd4)
 
+AVERAGE REVENUE BY REGION
 
+![image](https://github.com/user-attachments/assets/7f06ace7-39aa-48ab-b812-c455c52051ee)
+
+TOP 5 MARKETS BY REVENUE
+
+![image](https://github.com/user-attachments/assets/4ce4b976-140c-479a-8ead-a8cc7f5ab595)
+
+BOTTOM 5 STORES BY UNITS SOLD
+
+![image](https://github.com/user-attachments/assets/c26c1b48-cc16-484d-99dc-3a4a461022cf)
